@@ -1,0 +1,107 @@
+EIN: 52-1542558
+NAME: SURVIVORS OF INCEST ANONYMOUS INC
+ICO:
+STREET: PO BOX 190
+CITY: BENSON
+STATE: MD
+ZIP:21018-0190
+GROUP:0000
+SUBSECTION: 03
+AFFILIATION: 3            Independent
+CLASSIFICATION: 1200
+RULING: 198907
+DEDUCTIBILITY: 1
+FOUNDATION: 16
+                          Organization that normally receives no more than
+                          one-third of its support from gross investment income
+                          and unrelated business income and at the same time
+                          more than one-third of its support from contributions,
+                          fees, and gross receipts related to exempt purposes
+                          509(a)(2)
+
+ACTIVITY: 123000000       Discussion groups, forums, panels lectures, etc.
+ORGINIZATION: 1
+STATUS: 01
+TAX_PERIOD: 201612
+ASSET_CD: 0
+INCOME_CD: 0
+FILING_REQ_CD: 02
+PF_FILING_REQ_CD: 0
+ACCT_PD: 12
+ASSET_AMT: 0
+INCOME_AMT: 0
+Revenue Amount: 0
+NTEE_CD: Child Abuse, Prevention of (I72)
+SORT_NAME:
+NP_CODE: 501(c)(3)
+IRS_FORM: 990-N
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+Domain Name: SIAWSO.ORG
+Registry Domain ID: D1538689-LROR
+Registrar WHOIS Server:
+Registrar URL: http://www.networksolutions.com
+Updated Date: 2014-05-09T20:47:34Z
+Creation Date: 1998-04-20T04:00:00Z
+Registry Expiry Date: 2019-04-19T04:00:00Z
+Registrar Registration Expiration Date:
+Registrar: Network Solutions, LLC
+Registrar IANA ID: 2
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone: +1.8003337680
+Reseller:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: C8444069-LROR
+Registrant Name: Perfect Privacy, LLC
+Registrant Organization:
+Registrant Street: 12808 Gran Bay Parkway West
+Registrant Street: care of Network Solutions
+Registrant City: Jacksonville
+Registrant State/Province: FL
+Registrant Postal Code: 32258
+Registrant Country: US
+Registrant Phone: +1.5707088780
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: yy7883ch3m7@networksolutionsprivateregistration.com
+Registry Admin ID: C8444069-LROR
+Admin Name: Perfect Privacy, LLC
+Admin Organization:
+Admin Street: 12808 Gran Bay Parkway West
+Admin Street: care of Network Solutions
+Admin City: Jacksonville
+Admin State/Province: FL
+Admin Postal Code: 32258
+Admin Country: US
+Admin Phone: +1.5707088780
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: yy7883ch3m7@networksolutionsprivateregistration.com
+Registry Tech ID: C8444072-LROR
+Tech Name: PERFECT PRIVACY, LLC
+Tech Organization:
+Tech Street: 12808 Gran Bay Parkway West
+Tech Street: care of Network Solutions
+Tech City: Jacksonville
+Tech State/Province: FL
+Tech Postal Code: 32258
+Tech Country: US
+Tech Phone: +1.5707088780
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: ph3he5r56u8@networksolutionsprivateregistration.com
+Name Server: NS55.WORLDNIC.COM
+Name Server: NS56.WORLDNIC.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+________________________________________________________________________________
+staging: siawso17
+client: 2y$Lue&f0vSf
+dashboard: %8&H04M7cm9b
+________________________________________________________________________________
